@@ -6,7 +6,7 @@ cd template
 bundle exec jekyll serve
 ```
 
-After Installation ```bundle can``` can be avaoided to start a server
+After Installation ```bundle exec``` can be avaoided to start a server
 ```
 jekyll serve
 ```
