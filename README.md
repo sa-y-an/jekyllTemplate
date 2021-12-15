@@ -1,4 +1,8 @@
-# Creation Steps
+# Minimalist Template 
+
+wip
+
+## Creation Steps
 
 ```
 jekyll create new template
